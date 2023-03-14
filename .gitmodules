@@ -1,0 +1,3 @@
+[submodule "MySubRepo"]
+	path = MySubRepo
+	url = https://github.com/RyanHipple-BigBox/MySubRepo
